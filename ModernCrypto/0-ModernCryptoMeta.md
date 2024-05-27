@@ -23,12 +23,12 @@ problem. Learn about encryption below.
     href="https://web.archive.org/web/20170704130139/https://www.usna.edu/CyberDept/sy110/lec/cryptAsymmEnc/hw/hw.pdf"
     target="_blank">https://web.archive.org/web/20170704130139/https://www.usna.edu/CyberDept/sy110/lec/cryptAsymmEnc/hw/hw.pdf</a>
 
-Read this: <a href="https://ssd.eff.org/en/module/what-encryption"
-target="_blank">https://ssd.eff.org/en/module/what-encryption</a>
+Read this: <a href="https://ssd.eff.org/module/what-should-i-know-about-encryption"
+target="_blank">https://ssd.eff.org/module/what-should-i-know-about-encryption</a>
 
 Now here is a slightly more technical primer on how real world
 cryptography works.
 
 Read this: <a
-href="https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp"
-target="_blank">https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp</a>
+href="https://ssd.eff.org/module/deep-dive-end-end-encryption-how-do-public-key-encryption-systems-work"
+target="_blank">https://ssd.eff.org/module/deep-dive-end-end-encryption-how-do-public-key-encryption-systems-work</a>
